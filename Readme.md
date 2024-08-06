@@ -32,7 +32,7 @@ Before installing X-Asena, ensure that you have the following dependencies insta
 - Node.js
 
 ### Deploy on Any Shell (Including Termux)
-
+Get your SESSION ID https://emmygold-session.onrender.com
 To deploy X-Asena on any shell, including Termux, follow these steps:
 
 1. Fork the X-Asena repository
